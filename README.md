@@ -16,6 +16,7 @@ As a user, I would like to:
 * gets your marks
 * Search for projects 
 * as a teacher see number of student
+* as a teacher i would be able to create assignments
 
 
 ### Admin
