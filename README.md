@@ -1,4 +1,22 @@
 # Online Quiz
+>[Khalid Ali] https://github.com/Alikhalid2020
+  
+# Description  
+
+This is an online study where where one can take quizes and get marked from teachers
+
+##  Live Link  
+ Click [View Site]()  to visit the live-site
+  
+## User stories
+As a user, I would like to:
+
+number of students
+quizes to take
+gets your marks
+Search for projects 
+as a teacher see number of student
+
 
 ### Admin
 
