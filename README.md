@@ -11,11 +11,11 @@ This is an online study where where one can take quizes and get marked from teac
 ## User stories
 As a user, I would like to:
 
-number of students
-quizes to take
-gets your marks
-Search for projects 
-as a teacher see number of student
+* number of students
+* quizes to take
+* gets your marks
+* Search for projects 
+* as a teacher see number of student
 
 
 ### Admin
